@@ -1,0 +1,127 @@
+//{{NO_DEPENDENCIES}}
+// Archivo de inclusión generado de Microsoft Visual C++.
+// Usado por AgendaClínicaMédica ED 01.rc
+//
+#define IDD_REGISMEDIC                  103
+#define IDD_REGISPAC                    105
+#define IDD_CITA                        107
+#define IDD_MENU                        109
+#define IDD_LOGIN                       113
+#define IDD_CONFIRM                     116
+#define IDD_MEDMON                      118
+#define IDD_SEM                         120
+#define IDD_ESPSEM                      122
+#define BTN_EX                          1004
+#define BTN_UNDO                        1005
+#define EDT_NAME                        1006
+#define EDT_CED                         1007
+#define EDT_PHONE                       1008
+#define EDT_NOCONS                      1009
+#define CH_MON                          1010
+#define CH_TUE                          1011
+#define CH_WED                          1012
+#define CH_THU                          1013
+#define CH_FRI                          1014
+#define RD_TIME1                        1017
+#define RD_TIME2                        1018
+#define RD_TIME3                        1019
+#define EDT_AGE                         1022
+#define RD_FEMALE                       1023
+#define RD_MALE                         1024
+#define EDT_REFERENCE                   1028
+#define CB_PAC                          1030
+#define CB_ESP                          1032
+#define MC_DATEPANEL                    1035
+#define CB_TIME                         1036
+#define ST_NODATE                       1038
+#define LB_DT                           1063
+#define BTN_DT_MEDMON                   1064
+#define BTN_DT_WEEK                     1065
+#define BTN_DT_ESPWEEK                  1066
+#define BTN_DT_ADD                      1067
+#define BTN_DT_MODIFY                   1068
+#define BTN_DT_DELETE                   1069
+#define CB_DT_02                        1070
+#define BTN_DT_SEARCH                   1071
+#define LB_ESP                          1072
+#define EDT_ESP_NAME                    1074
+#define EDT_ESP_KEY                     1075
+#define EDT_ESP_DESC                    1076
+#define BTN_ESP_ADD                     1077
+#define BTN_ESP_DELETE                  1078
+#define BTN_ESP_MODIFY                  1079
+#define LB_PAC                          1080
+#define BTN_PAC_ADD                     1081
+#define BTN_PAC_MODIFY                  1082
+#define BTN_PAC_DELETE                  1083
+#define BTN_PAC_REPORT                  1084
+#define EDT_PAC_REFER                   1085
+#define ST_PAC_REFER                    1085
+#define LB_MED                          1086
+#define BTN_MED_ADD                     1087
+#define BTN_MED_MODIFY                  1088
+#define BMP_MED_DELETE                  1089
+#define BTN_MED_DELETE                  1089
+#define BTN_MED_REPORT                  1090
+#define EDT_MED_ATTIME                  1091
+#define ST_MED_ATTIME                   1091
+#define ST_USERNAME                     1092
+#define CB_DT_01                        1093
+#define BMP_DT                          1094
+#define ST_DT_NODATE                    1095
+#define ST_DT_DATETIME                  1096
+#define ST_DT_ESP                       1097
+#define ST_DT_NOCONS                    1098
+#define ST_DT_MEDNAME                   1099
+#define ST_DT_PACNAME                   1100
+#define ST_DT_STATE                     1101
+#define ST_PAC_NAME                     1102
+#define ST_PAC_GENRE                    1103
+#define ST_PAC_AGE                      1104
+#define ST_PAC_BIRTHDATE                1105
+#define ST_PAC_PHONE                    1106
+#define ST_PAC_FIRSTMED                 1107
+#define BMP_MED                         1108
+#define ST_MED_NAME                     1109
+#define ST_MED_CED                      1110
+#define ST_MED_NOCONS                   1111
+#define ST_MED_PHONE                    1112
+#define CB_MED                          1113
+#define CB_USER                         1114
+#define EDT_PASS                        1115
+#define IDC_COMBO1                      1116
+#define IDC_CHECK1                      1117
+#define CH_SECONDTIME                   1117
+#define EDT_FIRSTMED                    1118
+#define CB_MONTH                        1119
+#define EDT_YEAR                        1120
+#define CB_DAY                          1121
+#define ST_MED_ESP                      1122
+#define BTN_ESP_CLEAN                   1124
+#define EDT_LASTNAMEPAT                 1145
+#define EDT_SEARCH                      1147
+#define ST_DT_TIME                      1154
+#define ST_DT_MOTIVE                    1155
+#define EDT_BINSEARCH                   1157
+#define EDT_DT_SEARCH                   1157
+#define BTN_DT_BINSEARCH                1158
+#define EDT_LASTNAMEMAT                 1159
+#define RD_CONFIRM                      1162
+#define RD_CANCEL                       1163
+#define EDT_MOTIVE                      1164
+#define EDT_MED                         1165
+#define ST_MEDNAME                      1166
+#define ST_ESP                          1167
+#define BTN_SEARCH                      1168
+#define MCM_WEEKSELECTOR                1169
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        124
+#define _APS_NEXT_COMMAND_VALUE         40003
+#define _APS_NEXT_CONTROL_VALUE         1171
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

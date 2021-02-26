@@ -1,0 +1,6 @@
+# Archivos ignorados
+Debug/
+.vs/
+*.sln
+*.dat
+*.vcxproj*
